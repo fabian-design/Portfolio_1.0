@@ -451,6 +451,16 @@
             opacity: 1;
             bottom: 0;
         }
+
+.link-proyecto {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    z-index: 10;
+}
         /* *********************/
         /* seccion C O N T A C T O */
         /* *********************/
