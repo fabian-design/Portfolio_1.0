@@ -38,4 +38,8 @@ function efectoHabilidades() {
         document.getElementById("ps").classList.add("barra-progreso4");
     }
 
+    function abrirProyecto() {
+    window.open("https://fabian-design.github.io/surViajes/", "_blank");
+}
+
 }
